@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2008shivamjha
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Penetration Testing
+- 🌱 I’m currently learning Bug Bounty
 - 💞️ I’m looking to collaborate on Vulnerability Analysis
 - 📫 Reach me on:- www.instagram.com/cyber_age2021
 
