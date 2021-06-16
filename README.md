@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @2008shivamjha
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Pen Testing
-- 💞️ I’m looking to collaborate on Vulnerability Analysis
 - 📫 Reach me on:- www.instagram.com/cyber_age2021
 
 <!---
